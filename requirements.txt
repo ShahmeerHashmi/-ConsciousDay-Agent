@@ -1,0 +1,4 @@
+streamlit
+langchain
+openai  # or together
+python-dotenv  # for API key management
